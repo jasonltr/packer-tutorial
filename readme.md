@@ -42,3 +42,6 @@ Build 'learn-packer.amazon-ebs.ubuntu' finished after 4 minutes 27 seconds.
 --> learn-packer.amazon-ebs.ubuntu: AMIs were created:
 us-east-1: ami-0f207bec2307f4cfa
 ```
+
+verify that images are created on aws console  
+![](aws_packer_1.png)
